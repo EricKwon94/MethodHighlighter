@@ -4,9 +4,11 @@ Highlights C# method declarations with a customizable color, making it easier to
 
 Unlike general syntax highlighters, MethodHighlighter only colorizes method **definitions** — not calls or references.
 
-![MethodHighlighter Screenshot](screenshot1.png)
+![MethodHighlighter](screenshot1.png)
 
 ## Customization
 
 You can change the highlight color via:
 **Tools → Options → Environment → Fonts and Colors → Method Highlight**
+
+![Customization](screenshot2.png)
