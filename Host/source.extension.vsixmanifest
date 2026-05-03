@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Host.783eed11-b67f-438c-b15c-d77619873e71" Version="1.0.0" Language="en-US" Publisher="EricKwon" />
+        <Identity Id="MethodHighlighter.783eed11-b67f-438c-b15c-d77619873e71" Version="1.0.0" Language="en-US" Publisher="EricKwon" />
         <DisplayName>MethodHighlighter</DisplayName>
         <Description xml:space="preserve">Highlights C# method declarations with a customizable color. Definitions only — not calls.</Description>
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>
-		<Tags>csharp, highlight, method, editor</Tags>		
+		<Tags>syntax, highlight, method, editor</Tags>		
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, )">
